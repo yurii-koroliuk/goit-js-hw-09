@@ -1,3 +1,4 @@
+// 2
 const formElement = document.querySelector('.feedback-form');
 const storageKey = 'feedback-form-state';
 let formData = { email: '', message: '' };
